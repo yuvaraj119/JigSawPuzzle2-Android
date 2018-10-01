@@ -7,8 +7,4 @@
 
 
 
-# Author
-Yuvaraj Kumar Yadav K :point_right: https://github.com/yuvaraj119
-
-Support with BitCoin 3H7k6dyhLyQc7uhrpBtSQsqBf72UbzcyE5
 
